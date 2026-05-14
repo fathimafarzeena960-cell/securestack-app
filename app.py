@@ -50,7 +50,7 @@ def home():
 
             <input type="text" placeholder="Enter your name"><br>
 
-            <button><button onclick="alert('Form Submitted Successfully!')">Submit</button></button>
+            <button onclick="alert('Form Submitted Successfully!')">Submit</button>
         </div>
     </body>
     </html>
