@@ -33,12 +33,13 @@ def home():
             }
 
             button{
-                padding:10px 20px;
-                margin-top:15px;
-                background:blue;
-                color:white;
-                border:none;
-                border-radius:5px;
+               padding:10px 20px;
+    margin-top:15px;
+    background:blue;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
             }
         </style>
     </head>
